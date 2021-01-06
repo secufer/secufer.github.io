@@ -23,7 +23,8 @@
 7. Seller is supposed to deliver the product to the buyer within 10 days starting
    from the day he sends the fund to us.
 
-8. It is mandatory for both parties to have proofs before applying for disputes/raising any complaint.
+8. ### Guidelines for Proofs
+   It is mandatory for both parties to have proofs before applying for disputes/raising any complaint.
    Guidelines for proof and unboxing/packaging video:
 
 - The video should be made with good and stable camera quality.

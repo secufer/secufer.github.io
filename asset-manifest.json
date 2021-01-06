@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.1359096b.chunk.css",
-    "main.js": "/static/js/main.23b7fa8a.chunk.js",
+    "main.js": "/static/js/main.1c5049ce.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.7d1a1de6.js",
-    "static/js/2.4276f0ec.chunk.js": "/static/js/2.4276f0ec.chunk.js",
+    "static/js/2.acc2e71c.chunk.js": "/static/js/2.acc2e71c.chunk.js",
     "static/js/3.4676a298.chunk.js": "/static/js/3.4676a298.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.4276f0ec.chunk.js.LICENSE.txt": "/static/js/2.4276f0ec.chunk.js.LICENSE.txt",
-    "static/js/main.23b7fa8a.chunk.js.LICENSE.txt": "/static/js/main.23b7fa8a.chunk.js.LICENSE.txt",
+    "static/js/2.acc2e71c.chunk.js.LICENSE.txt": "/static/js/2.acc2e71c.chunk.js.LICENSE.txt",
+    "static/js/main.1c5049ce.chunk.js.LICENSE.txt": "/static/js/main.1c5049ce.chunk.js.LICENSE.txt",
     "static/media/avatar.37d93aaa.jpg": "/static/media/avatar.37d93aaa.jpg",
     "static/media/christian.36a49d2f.jpg": "/static/media/christian.36a49d2f.jpg",
     "static/media/kendall.ab8e0d7e.jpg": "/static/media/kendall.ab8e0d7e.jpg",
     "static/media/landing-bg.64d7ac30.jpg": "/static/media/landing-bg.64d7ac30.jpg",
-    "static/media/privacy-policy.46eb33d3.md": "/static/media/privacy-policy.46eb33d3.md",
+    "static/media/privacy-policy.d1f2147d.md": "/static/media/privacy-policy.d1f2147d.md",
     "static/media/secufer_logo_name.dbfc69b4.png": "/static/media/secufer_logo_name.dbfc69b4.png",
-    "static/media/terms-and-conditions.93a38101.md": "/static/media/terms-and-conditions.93a38101.md"
+    "static/media/terms-and-conditions.835aa58e.md": "/static/media/terms-and-conditions.835aa58e.md"
   },
   "entrypoints": [
     "static/js/runtime-main.7d1a1de6.js",
-    "static/js/2.4276f0ec.chunk.js",
+    "static/js/2.acc2e71c.chunk.js",
     "static/css/main.1359096b.chunk.css",
-    "static/js/main.23b7fa8a.chunk.js"
+    "static/js/main.1c5049ce.chunk.js"
   ]
 }
