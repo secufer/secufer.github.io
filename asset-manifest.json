@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.1359096b.chunk.css",
-    "main.js": "/static/js/main.3108d79a.chunk.js",
+    "main.js": "/static/js/main.d34b03d1.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.56d96645.js",
-    "static/js/2.c7e14207.chunk.js": "/static/js/2.c7e14207.chunk.js",
+    "static/js/2.badab1d9.chunk.js": "/static/js/2.badab1d9.chunk.js",
     "static/js/3.4a721367.chunk.js": "/static/js/3.4a721367.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.c7e14207.chunk.js.LICENSE.txt": "/static/js/2.c7e14207.chunk.js.LICENSE.txt",
-    "static/js/main.3108d79a.chunk.js.LICENSE.txt": "/static/js/main.3108d79a.chunk.js.LICENSE.txt",
+    "static/js/2.badab1d9.chunk.js.LICENSE.txt": "/static/js/2.badab1d9.chunk.js.LICENSE.txt",
+    "static/js/main.d34b03d1.chunk.js.LICENSE.txt": "/static/js/main.d34b03d1.chunk.js.LICENSE.txt",
     "static/media/privacy-policy.d1f2147d.md": "/static/media/privacy-policy.d1f2147d.md",
     "static/media/secufer_logo_name.dbfc69b4.png": "/static/media/secufer_logo_name.dbfc69b4.png",
     "static/media/terms-and-conditions.835aa58e.md": "/static/media/terms-and-conditions.835aa58e.md"
   },
   "entrypoints": [
     "static/js/runtime-main.56d96645.js",
-    "static/js/2.c7e14207.chunk.js",
+    "static/js/2.badab1d9.chunk.js",
     "static/css/main.1359096b.chunk.css",
-    "static/js/main.3108d79a.chunk.js"
+    "static/js/main.d34b03d1.chunk.js"
   ]
 }
