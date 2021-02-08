@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.e42e59fb.chunk.css",
-    "main.js": "/static/js/main.f95b8bea.chunk.js",
+    "main.css": "/static/css/main.5c2d0005.chunk.css",
+    "main.js": "/static/js/main.7f940bdf.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.983a35d7.js",
     "static/js/2.d65f94f6.chunk.js": "/static/js/2.d65f94f6.chunk.js",
     "static/js/3.7f569887.chunk.js": "/static/js/3.7f569887.chunk.js",
     "index.html": "/index.html",
     "static/js/2.d65f94f6.chunk.js.LICENSE.txt": "/static/js/2.d65f94f6.chunk.js.LICENSE.txt",
-    "static/js/main.f95b8bea.chunk.js.LICENSE.txt": "/static/js/main.f95b8bea.chunk.js.LICENSE.txt",
+    "static/js/main.7f940bdf.chunk.js.LICENSE.txt": "/static/js/main.7f940bdf.chunk.js.LICENSE.txt",
     "static/media/aboutus.1ae35443.svg": "/static/media/aboutus.1ae35443.svg",
     "static/media/aboutus2.ceb4d51e.svg": "/static/media/aboutus2.ceb4d51e.svg",
     "static/media/login.ee342221.svg": "/static/media/login.ee342221.svg",
@@ -16,13 +16,14 @@
     "static/media/privacy-policy.d1f2147d.md": "/static/media/privacy-policy.d1f2147d.md",
     "static/media/register_new.8452bff1.svg": "/static/media/register_new.8452bff1.svg",
     "static/media/secufer_logo_name.dbfc69b4.png": "/static/media/secufer_logo_name.dbfc69b4.png",
+    "static/media/secufer_logo_name1.a8e5f4c7.png": "/static/media/secufer_logo_name1.a8e5f4c7.png",
     "static/media/terms-and-conditions.835aa58e.md": "/static/media/terms-and-conditions.835aa58e.md",
     "static/media/style.css": "/static/media/wave_upside.c26a8111.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.983a35d7.js",
     "static/js/2.d65f94f6.chunk.js",
-    "static/css/main.e42e59fb.chunk.css",
-    "static/js/main.f95b8bea.chunk.js"
+    "static/css/main.5c2d0005.chunk.css",
+    "static/js/main.7f940bdf.chunk.js"
   ]
 }
