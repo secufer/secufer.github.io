@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d24c39b.chunk.css",
-    "main.js": "/static/js/main.7f940bdf.chunk.js",
+    "main.css": "/static/css/main.9b7faa1f.chunk.css",
+    "main.js": "/static/js/main.79596897.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.983a35d7.js",
     "static/js/2.d65f94f6.chunk.js": "/static/js/2.d65f94f6.chunk.js",
     "static/js/3.7f569887.chunk.js": "/static/js/3.7f569887.chunk.js",
     "index.html": "/index.html",
     "static/js/2.d65f94f6.chunk.js.LICENSE.txt": "/static/js/2.d65f94f6.chunk.js.LICENSE.txt",
-    "static/js/main.7f940bdf.chunk.js.LICENSE.txt": "/static/js/main.7f940bdf.chunk.js.LICENSE.txt",
+    "static/js/main.79596897.chunk.js.LICENSE.txt": "/static/js/main.79596897.chunk.js.LICENSE.txt",
     "static/media/aboutus.1ae35443.svg": "/static/media/aboutus.1ae35443.svg",
     "static/media/aboutus2.ceb4d51e.svg": "/static/media/aboutus2.ceb4d51e.svg",
     "static/media/login.ee342221.svg": "/static/media/login.ee342221.svg",
     "static/media/login_new.6efb60cc.svg": "/static/media/login_new.6efb60cc.svg",
-    "static/media/payments.e99c65a1.svg": "/static/media/payments.e99c65a1.svg",
+    "static/media/mobile_pay.ccdc703c.svg": "/static/media/mobile_pay.ccdc703c.svg",
     "static/media/privacy-policy.d1f2147d.md": "/static/media/privacy-policy.d1f2147d.md",
     "static/media/register_new.8452bff1.svg": "/static/media/register_new.8452bff1.svg",
     "static/media/secufer_logo_name.dbfc69b4.png": "/static/media/secufer_logo_name.dbfc69b4.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.983a35d7.js",
     "static/js/2.d65f94f6.chunk.js",
-    "static/css/main.8d24c39b.chunk.css",
-    "static/js/main.7f940bdf.chunk.js"
+    "static/css/main.9b7faa1f.chunk.css",
+    "static/js/main.79596897.chunk.js"
   ]
 }
