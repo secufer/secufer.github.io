@@ -87,7 +87,7 @@
 
 Welcome to SECUFER (“Company”, “we”, “our”, “us”)!
 
-These Terms of Service (“Terms”, “Terms of Service”) govern your use of our website located at [www.secufer.in](www.secufer.in) (together or individually “Service”) operated by SECUFER.
+These Terms of Service (“Terms”, “Terms of Service”) govern your use of our website located at [www.secufer.in](https://secufer.in) (together or individually “Service”) operated by SECUFER.
 
 Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web pages.
 
