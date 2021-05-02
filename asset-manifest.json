@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a7befe3.chunk.css",
-    "main.js": "/static/js/main.3f533089.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.b388d2ac.js",
-    "static/js/2.9610aae3.chunk.js": "/static/js/2.9610aae3.chunk.js",
-    "static/js/3.898a8fec.chunk.js": "/static/js/3.898a8fec.chunk.js",
+    "main.css": "/static/css/main.385c66e6.chunk.css",
+    "main.js": "/static/js/main.b54bef76.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.ca54b53d.js",
+    "static/js/2.27f7f5d9.chunk.js": "/static/js/2.27f7f5d9.chunk.js",
+    "static/js/3.6acef521.chunk.js": "/static/js/3.6acef521.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.9610aae3.chunk.js.LICENSE.txt": "/static/js/2.9610aae3.chunk.js.LICENSE.txt",
-    "static/media/aboutus.1ae35443.svg": "/static/media/aboutus.1ae35443.svg",
-    "static/media/aboutus2.ceb4d51e.svg": "/static/media/aboutus2.ceb4d51e.svg",
-    "static/media/login.ee342221.svg": "/static/media/login.ee342221.svg",
-    "static/media/login_new.6efb60cc.svg": "/static/media/login_new.6efb60cc.svg",
-    "static/media/mobile_pay.ccdc703c.svg": "/static/media/mobile_pay.ccdc703c.svg",
+    "static/js/2.27f7f5d9.chunk.js.LICENSE.txt": "/static/js/2.27f7f5d9.chunk.js.LICENSE.txt",
+    "static/media/aboutus.223e0b1f.svg": "/static/media/aboutus.223e0b1f.svg",
+    "static/media/aboutus2.55a08c3b.svg": "/static/media/aboutus2.55a08c3b.svg",
+    "static/media/login.1099355d.svg": "/static/media/login.1099355d.svg",
+    "static/media/login_new.7d546de1.svg": "/static/media/login_new.7d546de1.svg",
+    "static/media/mobile_pay.5e501dc9.svg": "/static/media/mobile_pay.5e501dc9.svg",
     "static/media/privacy-policy.eab416b8.md": "/static/media/privacy-policy.eab416b8.md",
-    "static/media/register_new.8452bff1.svg": "/static/media/register_new.8452bff1.svg",
+    "static/media/register_new.fa9b092a.svg": "/static/media/register_new.fa9b092a.svg",
     "static/media/secufer_logo_name.74cfcf04.png": "/static/media/secufer_logo_name.74cfcf04.png",
-    "static/media/secufer_logo_name1.a8e5f4c7.png": "/static/media/secufer_logo_name1.a8e5f4c7.png",
+    "static/media/secufer_logo_name1.86d87471.png": "/static/media/secufer_logo_name1.86d87471.png",
     "static/media/terms-and-conditions.f213a0a3.md": "/static/media/terms-and-conditions.f213a0a3.md",
-    "static/media/style.css": "/static/media/wave_upside.c26a8111.svg"
+    "static/media/style.css": "/static/media/wave_upside.48c91849.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b388d2ac.js",
-    "static/js/2.9610aae3.chunk.js",
-    "static/css/main.5a7befe3.chunk.css",
-    "static/js/main.3f533089.chunk.js"
+    "static/js/runtime-main.ca54b53d.js",
+    "static/js/2.27f7f5d9.chunk.js",
+    "static/css/main.385c66e6.chunk.css",
+    "static/js/main.b54bef76.chunk.js"
   ]
 }
