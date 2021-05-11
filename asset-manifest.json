@@ -1,31 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.07700354.chunk.css",
-    "main.js": "/static/js/main.1ebffda4.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.3671a61a.js",
-    "static/js/2.d35d2b8c.chunk.js": "/static/js/2.d35d2b8c.chunk.js",
-    "static/js/3.66ab88a9.chunk.js": "/static/js/3.66ab88a9.chunk.js",
+    "main.css": "/static/css/main.4691b53a.chunk.css",
+    "main.js": "/static/js/main.ab8c2c85.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.56d96645.js",
+    "static/js/2.12a8febb.chunk.js": "/static/js/2.12a8febb.chunk.js",
+    "static/js/3.4a721367.chunk.js": "/static/js/3.4a721367.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.d35d2b8c.chunk.js.LICENSE.txt": "/static/js/2.d35d2b8c.chunk.js.LICENSE.txt",
+    "static/js/2.12a8febb.chunk.js.LICENSE.txt": "/static/js/2.12a8febb.chunk.js.LICENSE.txt",
     "static/media/aboutus.223e0b1f.svg": "/static/media/aboutus.223e0b1f.svg",
     "static/media/aboutus2.55a08c3b.svg": "/static/media/aboutus2.55a08c3b.svg",
-    "static/media/freelancer.55202e21.svg": "/static/media/freelancer.55202e21.svg",
+    "static/media/freelance_home_work.2a2d4cff.png": "/static/media/freelance_home_work.2a2d4cff.png",
+    "static/media/freelancer.c1f0f998.svg": "/static/media/freelancer.c1f0f998.svg",
     "static/media/login.1099355d.svg": "/static/media/login.1099355d.svg",
     "static/media/login_new.7d546de1.svg": "/static/media/login_new.7d546de1.svg",
     "static/media/mobile_pay.5e501dc9.svg": "/static/media/mobile_pay.5e501dc9.svg",
-    "static/media/msme_logo.1903d8e6.png": "/static/media/msme_logo.1903d8e6.png",
+    "static/media/msme_logo.47867154.png": "/static/media/msme_logo.47867154.png",
     "static/media/privacy-policy.eab416b8.md": "/static/media/privacy-policy.eab416b8.md",
     "static/media/register_new.fa9b092a.svg": "/static/media/register_new.fa9b092a.svg",
     "static/media/secufer_logo_name.74cfcf04.png": "/static/media/secufer_logo_name.74cfcf04.png",
     "static/media/secufer_logo_name1.86d87471.png": "/static/media/secufer_logo_name1.86d87471.png",
     "static/media/services-terms-and-conditions.b3965b22.md": "/static/media/services-terms-and-conditions.b3965b22.md",
+    "static/media/solve.33fce76b.png": "/static/media/solve.33fce76b.png",
     "static/media/terms-and-conditions.f213a0a3.md": "/static/media/terms-and-conditions.f213a0a3.md",
     "static/media/style.css": "/static/media/wave_upside.48c91849.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3671a61a.js",
-    "static/js/2.d35d2b8c.chunk.js",
-    "static/css/main.07700354.chunk.css",
-    "static/js/main.1ebffda4.chunk.js"
+    "static/js/runtime-main.56d96645.js",
+    "static/js/2.12a8febb.chunk.js",
+    "static/css/main.4691b53a.chunk.css",
+    "static/js/main.ab8c2c85.chunk.js"
   ]
 }
